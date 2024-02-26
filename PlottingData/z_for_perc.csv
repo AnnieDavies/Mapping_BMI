@@ -1,0 +1,55 @@
+"","studyID","arm","time","mean","SD","n","test_type","UnAdj_cluster","chart_ref"
+"46","Shomaker 2019 12-18","Learning to BREATHE","baseline","1.62","0.592","29","Baseline and FU","N","Y"
+"47","Shomaker 2019 12-18","Learning to BREATHE","short","1.58","0.637","24","Baseline and FU","N","Y"
+"48","Shomaker 2019 12-18","Control - Health education","baseline","1.56","0.55","25","Baseline and FU","N","Y"
+"49","Shomaker 2019 12-18","Control - Health education","short","1.5","0.594","18","Baseline and FU","N","Y"
+"50","Shomaker 2019 12-18","Learning to BREATHE","long","1.58","0.719374728496908","23","Baseline and FU","N","Y"
+"51","Shomaker 2019 12-18","Control - Health education","long","1.35","0.824863625092051","21","Baseline and FU","N","Y"
+"60","Brown 2013 5-11","Intervention","baseline","1.02","1.14","31","Baseline and FU","N","Y"
+"61","Brown 2013 5-11","Intervention","short","1.05","1.16","31","Baseline and FU","N","Y"
+"62","Brown 2013 5-11","Control","baseline","1.07","1.16","32","Baseline and FU","N","Y"
+"63","Brown 2013 5-11","Control","short","0.9","2.21","32","Baseline and FU","N","Y"
+"70","Crespo 2012 5-11","APN Fam-only","baseline","0.86","1.12","163","Baseline and FU","N",NA
+"71","Crespo 2012 5-11","APN Fam-only","mid","0.86","1.06","145","Baseline and FU","N",NA
+"72","Crespo 2012 5-11","Control","baseline","1","1.1","223","Baseline and FU","N",NA
+"73","Crespo 2012 5-11","Control","mid","0.99","1.12","205","Baseline and FU","N",NA
+"74","Crespo 2012 5-11","APN Fam + Comm","baseline","0.94","1.23","195","Baseline and FU","N",NA
+"75","Crespo 2012 5-11","APN Fam + Comm","mid","0.95","1.13","167","Baseline and FU","N",NA
+"76","Crespo 2012 5-11","APN Comm-only","baseline","0.87","1.1","216","Baseline and FU","N",NA
+"77","Crespo 2012 5-11","APN Comm-only","mid","0.85","1.09","196","Baseline and FU","N",NA
+"78","Crespo 2012 5-11","APN Fam-only","long","0.94","0.99","119","Baseline and FU","N",NA
+"79","Crespo 2012 5-11","Control","long","1.03","1.08","171","Baseline and FU","N",NA
+"80","Crespo 2012 5-11","APN Fam + Comm","long","1.01","1.08","140","Baseline and FU","N",NA
+"81","Crespo 2012 5-11","APN Comm-only","long","0.93","1.01","154","Baseline and FU","N",NA
+"86","Elder 2014 5-11","MOVE/me Muevo","baseline","0.574","0.983","271","Baseline and FU","N","Y"
+"87","Elder 2014 5-11","MOVE/me Muevo","mid","0.552","0.979","239","Baseline and FU","N","Y"
+"88","Elder 2014 5-11","Control","baseline","0.746","0.913","267","Baseline and FU","N","Y"
+"89","Elder 2014 5-11","Control","mid","0.717","0.899","249","Baseline and FU","N","Y"
+"90","Elder 2014 5-11","MOVE/me Muevo","long","0.535","1.037","237","Baseline and FU","N","Y"
+"91","Elder 2014 5-11","Control","long","0.715","0.927","252","Baseline and FU","N","Y"
+"100","Fulkerson 2010 5-11","HOME","short","0.3","1","22","FU","N",NA
+"101","Fulkerson 2010 5-11","Control","short","0.26","1","22","FU","N",NA
+"126","Lent 2014 5-11","Healthy Corner Store","baseline","0.8","1.2","435","Baseline and FU","N","Y"
+"127","Lent 2014 5-11","Healthy Corner Store","mid","0.8","1.2","331","Baseline and FU","N","Y"
+"128","Lent 2014 5-11","Control","baseline","0.8","1.1","332","Baseline and FU","N","Y"
+"129","Lent 2014 5-11","Control","mid","0.8","1.1","265","Baseline and FU","N","Y"
+"130","Lent 2014 5-11","Healthy Corner Store","long","0.8","1.2","262","Baseline and FU","N","Y"
+"131","Lent 2014 5-11","Control","long","0.9","1.1","249","Baseline and FU","N","Y"
+"168","Newton 2014 5-11","Intensive intervention","baseline","1.7","1","13","Baseline and CS","N","Y"
+"169","Newton 2014 5-11","Intensive intervention","short","1.7","1","13","Baseline and CS","N","Y"
+"170","Newton 2014 5-11","Minimal intervention","baseline","1.3","0.9","14","Baseline and CS","N","Y"
+"171","Newton 2014 5-11","Minimal intervention","short","1.316","0.9","14","Baseline and CS","N","Y"
+"172","Nicholl 2021 5-11","Milky Way study","baseline","-0.01","0.881816307401944","24","Baseline and CS","N","Y"
+"173","Nicholl 2021 5-11","Milky Way study","short","0.12","0.881816307401944","24","Baseline and CS","N","Y"
+"174","Nicholl 2021 5-11","Control","baseline","-0.12","1.00816665289028","21","Baseline and CS","N","Y"
+"175","Nicholl 2021 5-11","Control","short","-0.14","1.00816665289028","21","Baseline and CS","N","Y"
+"190","Rosenkranz 2010 5-11","SNAP","baseline","0.57","0.85809867342476","33","Baseline and FU","Baseline and FU","Y"
+"191","Rosenkranz 2010 5-11","SNAP","short","0.55","0.85809867342476","33","Baseline and FU","Baseline and FU","Y"
+"192","Rosenkranz 2010 5-11","Control","baseline","0.38","0.691898406021664","39","Baseline and FU","Baseline and FU","Y"
+"193","Rosenkranz 2010 5-11","Control","short","0.36","0.682673093941375","39","Baseline and FU","Baseline and FU","Y"
+"194","Sherwood 2019 5-11","Intervention","baseline","1.07","0.31","212","Baseline and FU","N",NA
+"195","Sherwood 2019 5-11","Intervention","mid","0.97","0.42","181","Baseline and FU","N",NA
+"196","Sherwood 2019 5-11","Control","baseline","1.09","0.32","209","Baseline and FU","N",NA
+"197","Sherwood 2019 5-11","Control","mid","1.01","0.42","183","Baseline and FU","N",NA
+"198","Sherwood 2019 5-11","Intervention","long","0.96","0.49","180","Baseline and FU","N",NA
+"199","Sherwood 2019 5-11","Control","long","0.98","0.48","187","Baseline and FU","N",NA
