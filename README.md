@@ -1,5 +1,5 @@
 # Mapping_BMI
-Source codes and data for the paper "Mapping between aggregate level BMI data on different measurement scales in a meta-analysis of childhood obesity prevention interventions" Davies, Ades and Higgins (2024).
+Source codes and data for the paper "Mapping between measurement scales in meta-analysis, with application to measures of body mass index in children" Davies, Ades and Higgins (2024).
 
 ## Data
 A folder containing the raw data for each age group.
