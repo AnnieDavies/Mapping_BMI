@@ -10,6 +10,9 @@ A folder containing the LMS reference charts per sex. In each chart, age is tabu
 ## functions
 A folder containing the functions used to perform the mapping methods and format the data.
 
+## simulaton_funcs
+A folder containing the functions used to perform the simulation studies.
+
 ## PlottingData
 A folder containing the results of the mapping methods plotted in the paper.
 
@@ -19,3 +22,5 @@ An R file to map the data (read in from folder 'Data') from percentile and BMI o
 ## 2_CreatePlottingVectors.R
 An R file to read in the results from 1_GenerateMappedData.R and create vectors of results for plotting. Results of this code are saved in the folder PlottingData.
 
+## 3_SimulationStudy.R
+An example of an R code to perform a simulation study of the mapping methods (with SD=1 for zBMI and SD=3.5 for BMI).
