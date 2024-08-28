@@ -14,7 +14,7 @@ library(parallel)
 library(ggplot2)
 
 #set working directory
-chart_path <- "~\\Charts\\"
+chart_path <- "Charts/"
 
 #source functions from folder
 list.files("simulation_funcs", full.names = TRUE) %>% map(source)

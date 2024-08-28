@@ -1,7 +1,5 @@
 library(tidyverse)
 
-#set working directory
-setwd("/Mapping")
 
 #load data (generated in 1_GenerateMappedData.R)
 load("MappedData.RData")

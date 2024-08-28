@@ -1,4 +1,5 @@
 #include packages
+library(renv)
 library(tidyverse)
 library(readxl)
 library(writexl)
@@ -8,11 +9,9 @@ library(doParallel)
 library(foreach)
 library(parallel)  
 
-#set working directory
-setwd("~/Mapping")
 
-data_path <- "~/Mapping/Data/"
-chart_path <- "Mapping/Charts/"
+data_path <- "Data/"
+chart_path <- "Charts/"
 
 #source functions from folder 'functions'
 list.files("functions", full.names = TRUE) %>% map(source)
@@ -216,7 +215,7 @@ list.b.opt.aNorm.max10th <- foreach::foreach(i = 1:nrow(df_b), .packages = c("re
 parallel::stopCluster(cl)#======================================================
 
 #remove unnecessary variables
-rm(cl, df_1218, df_511, chart_path, data_path, i, icc)
+rm(cl, df_1218, df_511, chart_path, data_path, i, icc, rho)
 
 ## output results 
 save.image(file = "MappedData.RData")
