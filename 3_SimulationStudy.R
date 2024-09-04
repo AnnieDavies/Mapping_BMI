@@ -195,3 +195,6 @@ g<-ggplot(results2, aes(x = SDZ)) +
   theme(legend.title = element_blank(), legend.position = "right", 
         text = element_text(size = 14), plot.title = element_text(size = 14))
 ggsave("/SD_MID/BtoZ_FromB_converged_SD.png", g, width = 8, height = 7, dpi = 300)
+
+write.csv(results1, "/SimulationData/FromZ_IOTF_SDmid.csv", sep="")
+write.csv(results2, "/SimulationData/FromB_IOTF_SDmid.csv", sep="")
