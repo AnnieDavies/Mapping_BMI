@@ -436,7 +436,7 @@ list.to.df <- function(ls, outcome){
   }
   df <- data.frame(ls[[1]][ind])
   for(i in 2:length(ls)){
-    print(i)
+    #print(i)
     newrow <- data.frame(ls[[i]][ind])
     df <- rbind(df, newrow)
   }
